@@ -4,6 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Lucide%20React](https://img.shields.io/badge/Lucide_React-0.468-FAFAFA?logo=feather&logoColor=black)](https://lucide.dev/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/arnav-mittal70/Techfest-IIT-Bombay-Landing-Page)
 
 ---
 
@@ -51,17 +52,19 @@ src/
 │   ├─ Hero.jsx
 │   ├─ Navbar.jsx
 │   └─ StatsBanner.jsx
-├─ data/                 # Static data used by the app
-│   ├─ eventsData.js
-│   ├─ experiencesData.js
-│   ├─ galleryData.js
-│   └─ statsData.js
+└─ data/                  # Static data used by the app
+    ├─ eventsData.js
+    ├─ experiencesData.js
+    ├─ galleryData.js
+    └─ statsData.js
 ```
 
 ---
 
 ## Live Demo
-> **⚠️** A live deployment is not yet available. Replace this placeholder with the URL once the site is hosted.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-28a745?logo=vercel&logoColor=white)](https://techfest-iit-bombay-landing-page-ten.vercel.app)
+
+---
 
 ## Screenshots
 > No screenshots are currently committed to the repository. Add image files to a `screenshots/` directory and reference them here when available.
@@ -98,6 +101,13 @@ npm run build
 npm run preview
 ```
 The `dist/` folder will contain the compiled assets.
+
+---
+
+## Quick Links
+- **Live Demo**: https://techfest-iit-bombay-landing-page-ten.vercel.app
+- **GitHub Repository**: https://github.com/arnav-mittal70/Techfest-IIT-Bombay-Landing-Page
+- **Official Techfest Website**: https://techfest.org
 
 ---
 
