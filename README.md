@@ -63,6 +63,9 @@ src/
 ## Live Demo
 > **⚠️** A live deployment is not yet available. Replace this placeholder with the URL once the site is hosted.
 
+## Screenshots
+> No screenshots are currently committed to the repository. Add image files to a `screenshots/` directory and reference them here when available.
+
 ---
 
 ## Installation
