@@ -67,7 +67,21 @@ src/
 ---
 
 ## Screenshots
-> No screenshots are currently committed to the repository. Add image files to a `screenshots/` directory and reference them here when available.
+
+### Home / Hero
+![Home – Hero section](screenshots/home.png)
+
+### About
+![About section](screenshots/about.png)
+
+### Events
+![Events section](screenshots/events.png)
+
+### Experience
+![Experience section](screenshots/experience.png)
+
+### Gallery
+![Gallery section](screenshots/gallery.png)
 
 ---
 
